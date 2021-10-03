@@ -22,17 +22,5 @@ tree traversals), string matching, elements of computational geometry, NP comple
 
 ## Teacher Assistants
 
-- #### Amirreza Sokhankhosh
-    [Github account](https://github.com/amirrezasokhankhosh)
+- #### Nima Safaei (Head)
 
-    [Linked in](https://www.linkedin.com/in/amirreza-sokhankhosh-9b91901a8/)
-
-- #### Sepehr Shahsavar
-    [Github account](https://github.com/SepehrShahsavar)
-    
-    [Linked in](https://www.linkedin.com/in/sepehr-shahsavar-5884a6187/)
-
-- #### Amin Shafiei
-    [Github account](https://github.com/shamohamin)
-
-    [Linked in](https://www.linkedin.com/in/mohammad-amin-shafiee-6739b6175/)
