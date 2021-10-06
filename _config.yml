@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,18 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Structure
+title: Data Structures
 email: nimasafaei78@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A course of computer engineering major in K. N. Toosi University of Technology.
-baseurl: "PG_DS" # the subpath of your site, e.g. /blog
+  A course of computer engineering major in K. N. Toosi University of Technology(kntu.ac.ir).
+baseurl: "/PG_DS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /apple-touch-icon.png
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

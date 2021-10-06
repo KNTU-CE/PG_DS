@@ -4,17 +4,15 @@ title: About
 permalink: /about/
 ---
 
-About
+## Instructor
+
+- Dr.Hossein Shafiei
 
 ---
-## Instructor 
-- #### Dr.Hossein Shafiei
-
---- 
 
 ## Teacher Assistants
 
-- #### Nima Safaei (Head)
-
-Others
-
+- Nima Safaei (Head)
+- Sina Rostami
+- Mehdi Athari
+- Keyvan Rezaei
